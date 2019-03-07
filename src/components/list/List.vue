@@ -1,12 +1,7 @@
-<template>
-  <div>
-    <span>nihao</span>
-  </div>
-</template>
+<template src='./list.html'></template>
 
-<script>
-export default {}
+<script src='./list.js'>
 </script>
 
-<style>
+<style src='./list.less' scope lang='less'>
 </style>

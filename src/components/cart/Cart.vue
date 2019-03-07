@@ -7,9 +7,4 @@ export default {}
 </script>
 
 <style>
-div {
-  width: 10rem;
-  height: 10rem;
-  background-color: pink;
-}
 </style>
